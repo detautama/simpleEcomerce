@@ -1,0 +1,90 @@
+body{
+  background-color: #303030;
+}
+
+/*--------------------------*/
+.navbar{
+  margin: 0;
+  border: none;
+}
+
+#myNavbar ul li a, #brand{
+  color: white;
+}
+
+/*--------------------------------------------------*/
+
+.jumbotron{
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgb(255, 204, 150) !important;
+  padding: 15% 0;
+  margin-bottom: 0;
+  background-image: url('http://3.bp.blogspot.com/-hLgKamtrB90/UcHfHA5CQ0I/AAAAAAAAKVU/72dIVEK-GZo/s1600/Nvidia+wallpaper.jpg');
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  color: white;
+}
+
+.wrap{
+  border-top: 10px outset rgb(249, 127, 0);
+  border-bottom: 10px outset rgb(249, 127, 0);
+  background-color: rgba(0, 0, 0, 0.50);
+  padding: 6% 0;
+  margin: 0 auto;
+  height: 90%%;
+}
+/*--------------------------------------------------*/
+.latest{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+}
+
+.latest h1{
+  background-color: black;
+  padding: 1% 2%;
+}
+
+/*--------------------------------------------------*/
+img{
+  height: 200px !important;
+  margin: 0 auto;
+}
+
+input{
+  background-color: #b78900 !important;
+  border-radius: 10px;
+  border: none;
+  padding: 2% 3%;
+}
+
+.product{
+  background-color: black;
+  border: 3px dashed #b78900;
+  padding: 5%;
+  margin: 3%;
+  color: white;
+}
+
+
+
+/*-------------------------------------------------*/
+footer{
+  text-align: center;
+  padding: 2%;
+}
+
+footer h4{
+  margin: 0;
+}
+
+.navbar, footer{
+  background-color: black;
+  color: white;
+}
+
+h1{
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgb(255, 204, 150) !important;
+}

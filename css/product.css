@@ -1,0 +1,74 @@
+body{
+  background-color: #303030;
+}
+/*---------------------------------*/
+.navbar{
+  margin: 0;
+  background-color: black;
+  border: none;
+}
+
+#myNavbar ul li a, #brand{
+  color: white;
+}
+
+/*--------------------------------------------------*/
+
+img{
+  height: 200px !important;
+  margin: 0 auto;
+}
+
+input{
+  background-color: #b78900 !important;
+  border-radius: 10px;
+  border: none;
+  padding: 2% 3%;
+}
+
+.product{
+  background-color: black;
+  border: 3px dashed #b78900;
+  padding: 5%;
+  margin: 3%;
+  color: white;
+}
+
+/*-------------------------------------------------*/
+
+select{
+  font-size: 1.5em;
+  width: 10%;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 3px;
+}
+
+#set{
+  padding: 5px 8px;
+  border-radius: 0;
+  color: white;
+}
+
+h3{
+  color: #b78900;
+}
+
+h3 a, h3 a:hover{ /*tambah Barang*/
+  color: white;
+}
+
+footer{
+  text-align: center;
+  padding: 2%;
+}
+
+footer h4{
+  margin: 0;
+}
+
+.navbar, footer{
+  background-color: black;
+  color: white;
+}
